@@ -1,0 +1,13 @@
+Topics that should be revised as stated. 
+INTRODUCTION:
+	1. Purpose: State purpose of the report and include what the report will recomend.
+	2. Background: Provides infomormation on the problem or situation that gave rise to the investigation.
+	3. Scope: States the areas of investigation, e.g. reasons, consequences, etc., i.e. what information you need
+		  in order to meet your purpose.
+
+BACKGROUND: Background of the project should contain the basic domain knowledge i.e. what is breast cancer, neural network etc. 
+
+ARCHITECTURE:
+	For someone else to implement your work, you need to provide the basic architecture, network parameters and feature set of your project. 
+
+TESTING: while testing the network, you will have to independently test it on training data and testing data.
